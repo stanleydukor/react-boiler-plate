@@ -1,0 +1,13 @@
+/* @font-face {
+  font-family: "Ogg";
+  src: local("Ogg"), url(./assets/fonts/Ogg.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "Larsseit";
+  src: local("Larsseit"), url(./assets/fonts/Larsseit.ttf) format("truetype");
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Avenir:wght@300;400;600;700;800&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
