@@ -1,4 +1,4 @@
-import { publicRequest } from "../network/https";
+import { publicRequest } from "network/https";
 
 class UserService {
   async getTest() {

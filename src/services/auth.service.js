@@ -1,5 +1,5 @@
-import { publicRequest } from "../../network/https";
-import Navigation from "../routes/history";
+import { publicRequest } from "network/https";
+import Navigation from "routes/history";
 
 class AuthService {
   async doLogin(payload) {
